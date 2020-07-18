@@ -1,0 +1,4 @@
+This folder is for graphic artists to contribute images and 3D models related to Oumuamua in-game play.
+
+The basic premise of all art should be based on the Backstory described at: https://github.com/peterthorsteinson/Oumuamua/blob/master/README.md
+

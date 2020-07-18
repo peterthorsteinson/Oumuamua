@@ -1,4 +1,0 @@
-This folder is for music created for Oumuamua in-game play.
-
-The basic premise of all stories should be based on the Backstory described at: https://github.com/peterthorsteinson/Oumuamua/blob/master/README.md
-

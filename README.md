@@ -4,6 +4,8 @@
 
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
 
+This is an open source project for story writers, graphic artists, musicians, voice over talent, and software programmers to contribute to an amazing new online game named Oumuamua. This project is located at: (https://github.com/peterthorsteinson/Oumuamua)[https://github.com/peterthorsteinson/Oumuamua]
+
 ## Backstory
 
 On 19 October 2017, Oumuamua became the first detected interstellar object passing through our Solar System. In 2025, it is discovered to be of intergalactic origin, and after extensive analysis, it becomes apparent that it was designed and deployed by a distant advanced civilization to provide access to a wormhole nexus network known as "Yggdrasil" that leads to many other galaxies in our universe. It was designed by "Óðinn Father of All" to be a mathematical puzzle, so that any life form intelligent enough to solve it would be capable of using it to travel and communicate anywhere through space and time, virtually instantaneously.

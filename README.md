@@ -1,10 +1,12 @@
 # Oumuamua
 
+**A blockcain-based persistent virtual world in a MMRPG (massively multiplayer role-playing game)**
+
+This is an open source project for story writers, graphic artists, musicians, voice over talent, and software programmers to contribute to an amazing new online game named Oumuamua. This project is located here: [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
+
 ![Oumuamua Architecture](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaArchitecture.PNG?raw=true)
 
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
-
-This is an open source project for story writers, graphic artists, musicians, voice over talent, and software programmers to contribute to an amazing new online game named Oumuamua. This project is located at: [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
 
 ## Backstory
 

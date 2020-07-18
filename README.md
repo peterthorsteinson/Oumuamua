@@ -4,7 +4,7 @@
 
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
 
-This is an open source project for story writers, graphic artists, musicians, voice over talent, and software programmers to contribute to an amazing new online game named Oumuamua. This project is located at: ![https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
+This is an open source project for story writers, graphic artists, musicians, voice over talent, and software programmers to contribute to an amazing new online game named Oumuamua. This project is located at: [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
 
 ## Backstory
 

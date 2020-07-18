@@ -1,1 +1,6 @@
-This folder is for art created for in-game play.
+This folder is for art created for Oumuamua in-game play.
+
+This folder is for graphic artists to contribute images and models related to in-game play.
+
+The basic premise of all stories should be based on the Backstory described at: https://github.com/peterthorsteinson/Oumuamua/blob/master/README.md
+

@@ -4,7 +4,7 @@
 
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
 
-## Back Story
+## Backstory
 
 On 19 October 2017, Oumuamua became the first detected interstellar object passing through our Solar System. In 2025, it is discovered to be of intergalactic origin, and after extensive analysis, it becomes apparent that it was designed and deployed by a distant advanced civilization to provide access to a wormhole nexus network known as "Yggdrasil" that leads to many other galaxies in our universe. It was designed by "Óðinn Father of All" to be a mathematical puzzle, so that any life form intelligent enough to solve it would be capable of using it to travel and communicate anywhere through space and time, virtually instantaneously.
 
@@ -52,7 +52,7 @@ Example professions would be consulting and training, in areas related to game p
 
 I am just starting this project so not much done yet. I started with an ASP.NET Core website with Blazor WebAssembly and SignalR. It will eventually use ION (MS blockchain-based Identity Overlay Network) for decentralized authentication, Unity3D for game engine, and the Nethereum library to interact with smart contracts on the Ethereum blockchain network. These smart contracts will bridge between the persistent game state and the real world in interesting economic ways. It will be an MMRPG style game, like EVE Online. Game play will implement a stochastic Markov process with configurable rules and constraints. God players can inflence the probabilities in this Markov process. Non-player entities (friend and foe) and advisory chat bots will be AI driven using GANS and reinforcement learning algorithms. Players can communicate and collaborate with other players and participate in Ethereum-based smart contracts via a dashboard UI.
 
-Just as the code for this project is open source, the back story is also open source and everyone is welcome to contribute and/or fork code and/or storyline. Initially the story is only a glimmer of a hint of a concept. Hopefully others can supply the creativity to help move it forward. The story behind the game is set in the distant future. The Oumuamua interstellar object plays a role in connecting the present time with the discovery of this distant future.
+Just as the code for this project is open source, the back story is also open source and everyone is welcome to contribute and/or fork code and/or storyline. Initially the story is only a glimmer of a hint of a concept. Hopefully others can supply the creativity to help move it forward. The Oumuamua interstellar object plays a role in connecting the present time with the discovery of this distant future.
 
 The hyper-deity is a collection of smart contracts, known as Odin (Óðinn), which is designed to adjust economic factors and game engagement to improve overall game enjoyment. It is implemented in a carefully crafted smart contract. It tweaks parameters to keep the game play stable for all players and prevents certain winner-takes-all scenarios.
 

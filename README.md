@@ -43,7 +43,7 @@ Note that deities earn karma by accumulating followers via smart contracts, in a
 
 ### Special Events: The Wild Hunt and Ragnarök
 
-Special invitation-only events will be scheduled exclusively for god players that involve supernatural Hunts and cosmic battles...
+Special invitation-only events will be scheduled exclusively for god players that involve supernatural hunts and cosmic battles...
 
 * The Wild Hunt - See: https://en.wikipedia.org/wiki/Wild_Hunt
 * Ragnarök Battle - https://en.wikipedia.org/wiki/Ragnar%C3%B6k

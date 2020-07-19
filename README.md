@@ -8,13 +8,13 @@ This is an open source project for story writers, graphic artists, musicians, vo
 The URL of this page is:
 [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
 
-## The Software Stack
-
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
+
+## The Software Stack
 
 ![Oumuamua Architecture](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaArchitecture.PNG?raw=true)
 
-### The Main Technologies Involved
+### The Main Technologies
 
 * Cosmos DB stores global player command histories for all players
 * Ethereum stores immutable hash values of game play histories and crypto token assets

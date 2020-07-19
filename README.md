@@ -14,7 +14,7 @@ The URL of this page is:
 
 ![Oumuamua Architecture](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaArchitecture.PNG?raw=true)
 
-### The Main Technologies
+### Main Technologies
 
 * Cosmos DB stores global player command histories for all players
 * Ethereum stores immutable hash values of game play histories and crypto token assets
@@ -23,10 +23,11 @@ The URL of this page is:
 * Nethereum is a library that enables API access to the Ethereum blockchain from within the user device
 * WebRTC enables fast and direct communications between users for socializing and collaborating
 * REST APIs and Serverless Functions provide access to global cognitive services and AI capabilities
+* Cognitive services provide human language translation for players around the world to communicate
+* Cognitive services provide machine learning support for non-human actors such as oracles and bots
 * ION provides a recently developed decentralized authentication service for all users
 * Odin is a set of smart contracts that ensure game stability and fairness
 * The Althing is a virtual parliament smart contract used to execute referendums such as Big Bang Banishment
-* Cognitive serves provide human language translation for players around the world to communicate
 
 ## User Experience
 

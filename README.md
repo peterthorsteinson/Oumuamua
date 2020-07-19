@@ -46,7 +46,7 @@ Note that deities earn karma by accumulating followers via smart contracts, in a
 Special invitation-only events will be scheduled exclusively for god players that involve supernatural hunts and cosmic battles...
 
 * The Wild Hunt - See: https://en.wikipedia.org/wiki/Wild_Hunt
-* Ragnarök Battle - https://en.wikipedia.org/wiki/Ragnar%C3%B6k
+* Ragnarök Battle - See: https://en.wikipedia.org/wiki/Ragnar%C3%B6k
 
 ## The Basic Idea
 
@@ -73,6 +73,14 @@ I am just starting this project so not much done yet. I started with an ASP.NET 
 Just as the code for this project is open source, the backstory, graphic art, music, and sound effects are also all open source. Everyone is welcome to contribute or fork code, story, audio and art. Initially the story is only a glimmer of a hint of a concept. Hopefully others can supply the creativity to help move it forward.
 
 The hyper-deity, known as Odin (Óðinn), in code, is a collection of smart contracts, which are designed to adjust economic factors and support player engagement to improve overall game enjoyment and stability. It is implemented in a carefully crafted set of Ethereum-based smart contracts. It automatically tweaks game engine parameters and probabilities to keep the game play stable for all players and prevents certain winner-takes-all scenarios and various dead-end states. Recall that in the backstory, it is "Odin" who creates the Oumuamua interstellar object to enable the connection between the present time and place with the distant future and distant destinations in the multiverse. So, "Odin" represents both the central programmatic manager component in the game software infrastructure as well as the key ruler character in the underlying backstory.
+
+## Time Travel Limitations
+
+Based on currently understood general relativity and quantum mechanics, and also in the interest of the plausibility of the game backstory, the nexus wormhole only permits time travel back and forth between points in time subsequent to the moment when such time travel is initiated. You can freely travel to the future, and you can then return to the present. However, you cannot initiate any trip that leads into the past relative to the time that the trip is initiated. If you could, that would imply many thought experiments with nasty logical contradictions, such as what would happen to you if you were able to go back in time and kill one of your own direct ancestors? This possibility would also ruin many aspects of the plausibility of the backstory for the game, because players could hypothetically go back in time and destroy the game that they were in. That is simply not a plausible storyline.
+
+In actual fact, direct backward time travel is technically possible according to certain solutions in general relativity, but they only appear in extremely bizarre situations, such as within a rotating black hole. If you found yourself in such an environment, you would forever then be cut off from the rest of the universe including all other players in the game, never to be heard from again. There is no way out of such a black hole predicament. That is used to deal with repeat offenders that attempt to cheat the game or who are socially abhorrent within the game. Players could then petition Odin to make a smart contract executive decision to deal with the incorrigibly offensive player to just "accidently" run into such as rotating black hole that directly transports that player back to the singularity known as the big bang, approximately 13.77 billion years ago, losing all karma accumulated up to that point. I would recommend that this "feature" be applied in the most sparingly manner, since censorship itself tends to be an evil when abused. This feature would be implemented by way of actual physical world human intervention, by way of a petition calling for a game wide referendum vote.
+
+This voting mechanism for banning players back to the big bang is known as the Althing (Alþing) and it takes place in mystical but beautiful open-air parliament known as the Thingvellir (Þingvellir).
 
 ## Programming Topics
 

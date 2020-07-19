@@ -8,11 +8,16 @@ This is an open source project for story writers, graphic artists, musicians, vo
 The URL of this page is:
 [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
 
-
+Oumuamua Trajectory
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
-![Apparent Trajectory](https://en.wikipedia.org/wiki/%CA%BBOumuamua#/media/File:Artist's_impression_of_'Oumuamua.jpg)
-![Artist's impression](https://en.wikipedia.org/wiki/%CA%BBOumuamua#/media/File:Artist's_impression_of_%CA%BBOumuamua.jpg)
-Note: Image Attribution: https://en.wikipedia.org/wiki/Oumuamua
+
+Viewed From Earth
+![Viewed From Earth](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ViewedFromEarth.png?raw=true)
+
+Artist Impression
+![Artist Impression](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ArtistImpression.jpg?raw=true)
+
+Note: Images attribution: https://en.wikipedia.org/wiki/Oumuamua
 
 ## The Software Stack
 

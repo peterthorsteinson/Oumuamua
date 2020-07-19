@@ -8,9 +8,9 @@ This is an open source project for story writers, graphic artists, musicians, vo
 The URL of this page is:
 [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
 
-![Oumuamua Architecture](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaArchitecture.PNG?raw=true)
-
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
+
+![Oumuamua Architecture](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaArchitecture.PNG?raw=true)
 
 ## Technology Stack
 
@@ -24,6 +24,7 @@ The URL of this page is:
 * ION provides a recently developed decentralized authentication service for all users
 * Odin is a set of smart contracts that ensure game stability and fairness
 * The Althing is a virtual parliament smart contract used to execute referendums such as Big Bang Banishment
+* Cognitive serves provide human language translation for players around the world to communicate
 
 ## User Experience
 

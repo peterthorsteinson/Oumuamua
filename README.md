@@ -1,3 +1,4 @@
+
 # Oumuamua
 
 **A blockcain-based persistent virtual world in a MMRPG (massively multiplayer role-playing game)**
@@ -10,6 +11,23 @@ The URL of this page is:
 ![Oumuamua Architecture](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaArchitecture.PNG?raw=true)
 
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
+
+## Technology Stack
+
+* Cosmos DB stores global player command histories for all players
+* Ethereum stores immutable hash values of game play histories and crypto token assets
+* Blazor implements the player UI on client devices using WebAssembly, as well as the local Causality Engine
+* Notification Hubs alert users in real time regarding impending threats and opportunities, etc.
+* Nethereum is a library that enables API access to the Ethereum blockchain from within the user device
+* WebRTC enables fast and direct communications between users for socializing and collaborating
+* REST APIs and Serverless Functions provide access to global cognitive services and AI capabilities
+* ION provides a recently developed decentralized authentication service for all users
+* Odin is a set of smart contracts that ensure game stability and fairness
+* The Althing is a virtual parliament smart contract used to execute referendums such as Big Bang Banishment
+
+## User Experience
+
+Oumuamua is a methodical cerebral strategic game. It is not a spinal-twitch reflex game. Player experience is more like that of a military strategist in the Churchill War Room, rather than that of the infantry soldier in hand-to-hand battlefield combat. Oumuamua is played in a dashboard console UI. It uses keyboard, mouse, headset, and microphone, to communicate with game components and with other players and AI bots. It makes no use of a traditional gaming controller pad. Most of the UI is focused on communications with other players as well as current game state data. It feels more like you are a day trader sitting at a Bloomberg Trading Terminal, rather than a first-person shooter such as Half-Life. Multiple screens are recommended. Unity3D is used to provide a 3D graphic animations viewport, but it is used typically as view-only eye-candy. For example, if you see an enemy in this Unity3D viewport, you do not interact with it directly. Instead you would issue an executive command to attack, negotiate, or run away. The action you take updates the game state according to the result of the Causality Engine component, and hopefully you gain some token value in the process.
 
 ## Backstory
 

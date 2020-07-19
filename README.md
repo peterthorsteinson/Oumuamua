@@ -3,7 +3,7 @@
 
 **A blockcain-based persistent virtual world in a MMRPG (massively multiplayer role-playing game)**
 
-This is an open source project for story writers, graphic artists, musicians, voice over talent, and software programmers to contribute to an amazing new online game named Oumuamua.
+This is an open source project for story writers, graphic artists, musicians, voice over talent, and software programmers to contribute to an amazing new online game named **Oumuamua**.
 
 The URL of this page is:
 [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)

@@ -11,9 +11,9 @@ The URL of this page is:
 
 ![Viewed From Earth](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ViewedFromEarth.png?raw=true) ![Artist Impression](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ArtistImpression.jpg?raw=true)
 
-Note: Images attribution: https://en.wikipedia.org/wiki/Oumuamua
+Images attribution: https://en.wikipedia.org/wiki/Oumuamua
 
-## The Software Stack
+## Software Stack
 
 ![Oumuamua Architecture](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaArchitecture.PNG?raw=true)
 
@@ -73,7 +73,7 @@ Special invitation-only events will be scheduled exclusively for god players tha
 * The Wild Hunt - See: https://en.wikipedia.org/wiki/Wild_Hunt
 * Ragnarök Battle - See: https://en.wikipedia.org/wiki/Ragnar%C3%B6k
 
-## The Extended Plan
+## Extended Vision
 
 A persistent virtual world in a MMRPG (massively multiplayer role-playing game) is the perfect platform for my ideas on bridging between the virtual world and the physical world. Many MMRPGs already feature in-game virtual careers, professions, markets, and economies. I want to explore ways of extending that out into a real-world blockchain to support a crypto-currency-based real-world financial game-theoretic society. A virtual-physical hybrid platform would result. Some new professions will evolve on this hybrid platform, as some enterprising and creative players devise markets and services, so that real human players can provide useful paid-for serves to other humans in the real world.
 All we need to do is provide the hybrid blockchain platform and programmability, and then let the community do the rest.

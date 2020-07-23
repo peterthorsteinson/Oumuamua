@@ -7,8 +7,8 @@ This is an open source project for story writers, graphic artists, musicians, vo
 The URL of this page is
 [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
 
-### Tumbling Oumuamua Asteroid in Unity3D WebGL on Github
-[GitHub Repo](https://peterthorsteinson.github.io/index.html)
+### Tumbling Oumuamua Asteroid in Unity3D WebGL
+[Live Demo](https://peterthorsteinson.github.io/index.html)
 
 ### Tumbling Oumuamua Asteroid in Unity3D on YouTube
 [![YouTube](http://img.youtube.com/vi/oNx4gZVAZOI/0.jpg)](http://www.youtube.com/watch?v=oNx4gZVAZOI)

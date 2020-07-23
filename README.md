@@ -4,17 +4,19 @@
 
 This is an open source project for story writers, graphic artists, musicians, voice over talent, and software programmers to contribute to an amazing new online game named **ʻOumuamua**.
 
-**The URL of this page is**
+The URL of this page is
 [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
 
-**Simple example of Unity3D**
+### Simple example of Unity3D WebGL showing tumbling Oumuamua asteroid model
 [https://peterthorsteinson.github.io/index.html](https://peterthorsteinson.github.io/index.html)
+
+### Artist Impressions (attribution: wikipedia)
 
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
 
-![Viewed From Earth](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ViewedFromEarth.png?raw=true) ![Artist Impression](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ArtistImpression.jpg?raw=true)
+![Viewed From Earth](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ViewedFromEarth.png?raw=true)
 
-Images attribution: https://en.wikipedia.org/wiki/Oumuamua
+![Artist Impression](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ArtistImpression.jpg?raw=true)
 
 ## Software Stack
 

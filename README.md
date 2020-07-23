@@ -1,6 +1,6 @@
 # ʻOumuamua
 
-**A blockcain-based persistent virtual world in a MMRPG (massively multiplayer role-playing game)**
+**A blockchain-based persistent virtual world in a MMRPG (massively multiplayer role-playing game)**
 
 This is an open source project for story writers, graphic artists, musicians, voice over talent, and software programmers to contribute to an amazing new online game named **ʻOumuamua**.
 

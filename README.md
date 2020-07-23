@@ -7,8 +7,8 @@ This is an open source project for story writers, graphic artists, musicians, vo
 The URL of this page is
 [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
 
-### Simple example of Unity3D WebGL showing tumbling Oumuamua asteroid model
-[https://peterthorsteinson.github.io/index.html](https://peterthorsteinson.github.io/index.html)
+### Simple example of  model
+[Unity3D WebGL: Tumbling Oumuamua](https://peterthorsteinson.github.io/index.html)
 
 ### Artist Impressions (attribution: wikipedia)
 

@@ -7,13 +7,11 @@ This is an open source project for story writers, graphic artists, musicians, vo
 The URL of this page is
 [https://github.com/peterthorsteinson/Oumuamua](https://github.com/peterthorsteinson/Oumuamua)
 
-### Simple example of  model
+### Simple Unity3D Demo
 [Unity3D WebGL: Tumbling Oumuamua](https://peterthorsteinson.github.io/index.html)
 
 ### Artist Impressions (attribution: wikipedia)
-
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
-
 ![Viewed From Earth](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ViewedFromEarth.png?raw=true) ![Artist Impression](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ArtistImpression.jpg?raw=true)
 
 ## Software Stack

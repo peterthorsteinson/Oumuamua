@@ -13,9 +13,6 @@ The URL of the Oumuamua Viewport project on GitHub is
 ### Tumbling Oumuamua Asteroid in Unity3D WebGL
 [Live Demo](https://peterthorsteinson.github.io/index.html)
 
-### Tumbling Oumuamua Asteroid in Unity3D on YouTube
-[![YouTube](http://img.youtube.com/vi/oNx4gZVAZOI/0.jpg)](http://www.youtube.com/watch?v=oNx4gZVAZOI)
-
 ### Artist Impressions (attribution: wikipedia)
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
 ![Viewed From Earth](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ViewedFromEarth.png?raw=true) ![Artist Impression](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ArtistImpression.jpg?raw=true)

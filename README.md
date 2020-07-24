@@ -13,6 +13,9 @@ The URL of the Oumuamua Viewport project on GitHub is
 ### Tumbling Oumuamua Asteroid in Unity3D WebGL
 [Live Demo](https://peterthorsteinson.github.io/index.html)
 
+### URL of the ASP NET Core Blazor WASM SignalR Demo project on GitHub is
+[https://github.com/peterthorsteinson/AspNetCoreBlazorWasmSignalRDemo](https://github.com/peterthorsteinson/AspNetCoreBlazorWasmSignalRDemo)
+
 ### Artist Impressions (attribution: wikipedia)
 ![Oumuamua Trajectory](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/OumuamuaTrajectory.png?raw=true)
 ![Viewed From Earth](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ViewedFromEarth.png?raw=true) ![Artist Impression](https://github.com/peterthorsteinson/Oumuamua/blob/master/img/ArtistImpression.jpg?raw=true)
@@ -23,7 +26,7 @@ The URL of the Oumuamua Viewport project on GitHub is
 
 ### Main Technologies
 
-* Cosmos DB stores global player command histories for all players
+* Cosmos DB stores player command histories and a Graph database for player game state in each theater of engagement
 * Ethereum stores immutable hash values of game play histories and crypto token assets
 * Blazor implements the player UI on client devices using WebAssembly, as well as the local Causality Engine
 * Notification Hubs alert users in real time regarding impending threats and opportunities, etc.
@@ -94,7 +97,7 @@ Example professions would be consulting and training, in areas related to game p
 
 My plan does not involve transferring ownership of individual in-game objects. That would be an in-game accounting nightmare and the volume of transactions would be too high for most blockchains today. It would also be too detailed and boring for a player to deal with in a typical MMORPG environment. Player actions need to be much higher level and strategic. Much coarser grained.
 
-Instead, each high-level action taken by a player is scored and the consequences that result simply increase or decrease various player properties (health, power, karma, etc.) associated with that player. After each player action, the current game state and player properties are updated (Causality Engine). The updated game state snapshot and associated player properties are stored as a transaction record in a distributed database (probably Cosmos DB). Game state is stored as a cryptographic hash and metadata related to that action (e.g. player identities involved, action taken, updated player properties, etc.) are recorded in each database record. Only the hash of this data record is actually stored on an immutable public blockchain (probably Ethereum) purely for the purpose of immutability to keep hackers from cheating game mechanics. This aspect of blockchain usage has nothing to do with in-game crypto tokens (the player property known as "karma" is used for that purpose).
+Instead, each high-level action taken by a player is scored and the consequences that result simply increase or decrease various player properties (health, power, karma, etc.) associated with that player. After each player action, the current game state and player properties are updated (Causality Engine). The updated game state snapshot and associated player properties are stored as a transaction record in a distributed database (Cosmos DB). Game state is stored as a cryptographic hash and metadata related to that action (e.g. player identities involved, action taken, updated player properties, etc.) are recorded in each database record. Only the hash of this data record is actually stored on an immutable public blockchain (probably Ethereum) purely for the purpose of immutability to keep hackers from cheating game mechanics. This aspect of blockchain usage has nothing to do with in-game crypto tokens (the player property known as "karma" is used for that purpose).
 
 All player properties are used to varying degrees in calculating various outcomes of each subsequent player interaction within the game. Each such outcome is calculated using a Markov Matrix containing state transition probabilities. These probabilities represent (at a macroscopic level) all possible causality laws that determine all future game state outcomes in game-based virtual reality. These state transition probabilities can be adjusted, within reason, by god players if they are willing to spend their own karma to do so. Various player properties affect stochastic outcomes that result from player actions, according to this Markov process. For example, the Health property influences the risk of dying as a result of any given action that may be taken. Another example is power, which influences the heuristics of gaining or losing various player properties (i.e. power, karma, or life, etc.), in activities (e.g. battle, exploration, etc.).
 

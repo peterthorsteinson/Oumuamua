@@ -1,0 +1,3 @@
+This folder is for programmers to contribute code related to Oumuamua in-game play.
+
+The basic design of all code should be based on the project description described at: https://github.com/peterthorsteinson/Oumuamua/blob/master/README.md

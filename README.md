@@ -102,6 +102,30 @@ Special invitation-only events will be scheduled exclusively for god players tha
 * The Wild Hunt - See: https://en.wikipedia.org/wiki/Wild_Hunt
 * Ragnarök Battle - See: https://en.wikipedia.org/wiki/Ragnar%C3%B6k
 
+## Economic Forces
+
+### Pandemic Economics
+
+The Covid-19 pandemic will continue to hammer the real-world economy for at least the remainder of 2020. Human activity and assembly will continue to be severely restricted with the result that unemployment will remain at catastrophic record levels. This situation may remain the new normal for an extended time period. Financial austerity, and ultimately, the specter of literal extinction, will force many people to consider any and every possible solution to their own crises. Any skepticism to new and possibly strange solution proposals will evaporate, especially if a sufficient founder group that provides a demonstrably effective solution can be established. As unlikely and counter-intuitive as this proposition may at first appear, it will in fact be blockchain-based online gaming that provide an effective solution this problem.
+
+Meanwhile, the disabled economy will force businesses to step up efforts to switch to fully automated AI systems to replace human labor. There will be massive research efforts to develop AI technologies, to the point where AI will be applied recursively to develop next generation AI. At that point, AI will rapidly and completely displace human economic activity, until average incomes and employment levels settle towards zero, en masse. At that point, there will be no traditional human-based economy left to go back to, even if and when the pandemic problem is medically solved. And of course, there will be other calamities in the pipeline, such civil violence and global warming.
+
+Additionally, with the dwindling purchasing power of the majority of the population, there will be a reduced demand for products and services as well. So, supply and demand will take simultaneous hits. This will further downsize business economic opportunities and accelerate further unemployment. This will become a rapid and destructive negative feedback loop. How quickly or slowly a medical solution to this pandemic is forthcoming, will have no effect on the eventual ultimate outcome. The end-game will be the same, sooner or later.
+
+People will need a totally new economy to provide subsistence level food, water, and shelter. Humans being humans, society will collectively seek social engagement. The only activity that will remain that allows one human to provide value to another human, while maintain maximal social distancing, will be through a virtual online environment. On-line social networking, gaming, and entertainment will be the only game in town.
+
+### Automation Economics
+
+Robotics, AI, and automation will continue to advance, following a Moore's Law exponential curve (actually a logistic curve in the long term). This is true for any technology where development and innovation feeds on the current state of that same technology. Many traditional jobs have already been eliminated as a result of AI and robotics. But it is not just low-skilled workers being affected. Many highly skilled workers are now being pushed aside as well. This is happening in the engineering, sciences, and medical fields, as well as in law, accounting, and business. Eventually, all human activity will become, in relative terms, less productive, less precise, and ultimately of less economic value, to other humans, in comparison to these new AI-based alternatives.
+
+The human capabilities that will endure the longest are based on social interactions, relationships, and friendships. Online role-playing games will eventually be one of the last economic activities still standing. For many, it will become their only remaining career and income opportunity.
+
+### Karma Crypto Token
+
+Karma crypto token will incentivizes development and community participation in this project. Karma will be distributed to users based on time spent interacting within the game. This will be a reverse-income-tax or a guaranteed basic income.  It would represent a reversal of a traditional Central Bank, such as the US Federal Reserve. Instead of a Central Bank creating fiat money and handing it to the private banking system to lend back to the government with interest (weird system), it would instead, reward players directly. Committed players would benefit the most. There will be exchange between Karma and real-world currencies at prevailing market exchange rates.
+
+Note that Bitcoin was a direct response to the 2008 world financial collapse that grew out of secrecy, corruption, and self-dealing. In a similar way, Karma could become a response to the Covid-19 pandemic and the resulting global economic collapse.
+
 ## Extended Vision
 
 A persistent virtual world in a MMRPG (massively multiplayer role-playing game) is the perfect platform for my ideas on bridging between the virtual world and the physical world. Many MMRPGs already feature in-game virtual careers, professions, markets, and economies. I want to explore ways of extending that out into a real-world blockchain to support a crypto-currency-based real-world financial game-theoretic society. A virtual-physical hybrid platform would result. Some new professions will evolve on this hybrid platform, as some enterprising and creative players devise markets and services, so that real human players can provide useful paid-for serves to other humans in the real world.
